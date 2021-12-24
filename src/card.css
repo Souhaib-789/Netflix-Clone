@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(61, 8, 8);
+    font-family: 'Trebuchet MS';
+}
+.nm{
+ background-color: white;
+
+
+}
+.div{
+    
+    margin: 20px !important;
+    margin-top: 40px !important;
+    width: 20rem;
+    display: inline-flex !important;
+    
+}
+.ing{
+    width: 318px;
+    height: 400px;
+}
